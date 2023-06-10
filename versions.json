@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1.19.4-0.1.4",
+    "name": "SimpleClient 1.19.4",
+    "mods": [
+      "https://github.com/SimpleClient/SimpleClient/releases/download/1.19.4-0.1.4/simpleclient-1.19.4-0.1.4.jar",
+      "https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.19.4/entityculling-fabric-1.6.2-mc1.19.4.jar",
+      "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1%2B1.19/starlight-1.1.1%2Bfabric.ae22326.jar",
+      "https://github.com/IrisShaders/Iris/releases/download/1.6.4%2B1.19.4/iris-mc1.19.4-1.6.4.jar",
+      "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/7hqKf7qu/dashloader-5.0.0-beta.1%2B1.19.4.jar"
+    ]
+  },
+  {
+    "id": "1.20-0.1.4",
+    "name": "SimpleClient 1.20",
+    "mods": [
+      "https://github.com/SimpleClient/SimpleClient/releases/download/1.20-0.1.4/simpleclient-1.20-0.1.4.jar",
+      "https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar",
+      "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2%2Bfabric.dbc156f.jar",
+      "https://github.com/IrisShaders/Iris/releases/download/1.6.4%2B1.20/iris-mc1.20-1.6.4.jar",
+      "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/mcU33FBx/dashloader-5.0.0-beta.1%2B1.20.0.jar"
+    ]
+  }
+]
