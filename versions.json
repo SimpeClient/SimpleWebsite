@@ -17,7 +17,8 @@
   {
     "id": "1.20-0.1.4",
     "name": "SimpleClient 1.20",
-    "minecraft_version": "1.19.4",
+    "minecraft_version": "1.20",
+    "fabric_version": "0.14.21",
     "simpleclient_version": "0.1.4",
     "mods": [
       "https://github.com/FabiPunktExe/SimpleClient/releases/download/0.1.4/simpleclient-1.20-0.1.4.jar",
