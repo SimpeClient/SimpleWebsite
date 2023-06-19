@@ -10,7 +10,6 @@
       "https://github.com/FabricMC/fabric/releases/download/0.83.0+1.19.4/fabric-api-0.83.0+1.19.4.jar",
       "https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.19.4/entityculling-fabric-1.6.2-mc1.19.4.jar",
       "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1+1.19/starlight-1.1.1+fabric.ae22326.jar",
-      "https://github.com/IrisShaders/Iris/releases/download/1.6.4+1.19.4/iris-mc1.19.4-1.6.4.jar",
       "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/7hqKf7qu/dashloader-5.0.0-beta.1+1.19.4.jar"
     ]
   },
@@ -25,7 +24,6 @@
       "https://github.com/FabricMC/fabric/releases/download/0.83.0+1.20/fabric-api-0.83.0+1.20.jar",
       "https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar",
       "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2+fabric.dbc156f.jar",
-      "https://github.com/IrisShaders/Iris/releases/download/1.6.4+1.20/iris-mc1.20-1.6.4.jar",
       "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/mcU33FBx/dashloader-5.0.0-beta.1+1.20.0.jar"
     ]
   }
