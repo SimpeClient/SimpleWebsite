@@ -1,12 +1,12 @@
 [
   {
-    "id": "1.19.4-0.1.4",
+    "id": "1.19.4-0.2.1",
     "name": "SimpleClient 1.19.4",
     "minecraft_version": "1.19.4",
     "fabric_version": "0.14.21",
-    "simpleclient_version": "0.1.4",
+    "simpleclient_version": "0.2.1",
     "mods": [
-      "https://github.com/FabiPunktExe/SimpleClient/releases/download/0.1.4/simpleclient-1.19.4-0.1.4.jar",
+      "https://github.com/FabiPunktExe/SimpleClient/releases/download/0.2.1/simpleclient-1.19.4-0.2.1.jar",
       "https://github.com/FabricMC/fabric/releases/download/0.83.0+1.19.4/fabric-api-0.83.0+1.19.4.jar",
       "https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.19.4/entityculling-fabric-1.6.2-mc1.19.4.jar",
       "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1+1.19/starlight-1.1.1+fabric.ae22326.jar",
@@ -14,14 +14,28 @@
     ]
   },
   {
-    "id": "1.20-0.1.4",
+    "id": "1.20-0.2.1",
     "name": "SimpleClient 1.20",
     "minecraft_version": "1.20",
     "fabric_version": "0.14.21",
-    "simpleclient_version": "0.1.4",
+    "simpleclient_version": "0.2.1",
     "mods": [
-      "https://github.com/FabiPunktExe/SimpleClient/releases/download/0.1.4/simpleclient-1.20-0.1.4.jar",
+      "https://github.com/FabiPunktExe/SimpleClient/releases/download/0.2.1/simpleclient-1.20-0.2.1.jar",
       "https://github.com/FabricMC/fabric/releases/download/0.83.0+1.20/fabric-api-0.83.0+1.20.jar",
+      "https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar",
+      "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2+fabric.dbc156f.jar",
+      "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/mcU33FBx/dashloader-5.0.0-beta.1+1.20.0.jar"
+    ]
+  },
+  {
+    "id": "1.20.1-0.2.1",
+    "name": "SimpleClient 1.20.1",
+    "minecraft_version": "1.20.1",
+    "fabric_version": "0.14.21",
+    "simpleclient_version": "0.2.1",
+    "mods": [
+      "https://github.com/FabiPunktExe/SimpleClient/releases/download/0.2.1/simpleclient-1.20.1-0.2.1.jar",
+      "https://github.com/FabricMC/fabric/releases/download/0.84.0+1.20/fabric-api-0.84.0+1.20.jar",
       "https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar",
       "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2+fabric.dbc156f.jar",
       "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/mcU33FBx/dashloader-5.0.0-beta.1+1.20.0.jar"
