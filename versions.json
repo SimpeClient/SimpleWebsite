@@ -35,7 +35,7 @@
     "simpleclient_version": "0.2.1",
     "mods": [
       "https://github.com/FabiPunktExe/SimpleClient/releases/download/0.2.1/simpleclient-1.20.1-0.2.1.jar",
-      "https://github.com/FabricMC/fabric/releases/download/0.84.0+1.20/fabric-api-0.84.0+1.20.jar",
+      "https://github.com/FabricMC/fabric/releases/download/0.84.0+1.20.1/fabric-api-0.84.0+1.20.1.jar",
       "https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar",
       "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2+fabric.dbc156f.jar",
       "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/mcU33FBx/dashloader-5.0.0-beta.1+1.20.0.jar"
