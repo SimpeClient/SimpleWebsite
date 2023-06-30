@@ -15,7 +15,9 @@
       "https://cdn.modrinth.com/data/NRjRiSSD/versions/kLyFtyv2/memoryleakfix-fabric-1.17+-1.1.1.jar",
       "https://github.com/comp500/Indium/releases/download/1.0.18+mc1.19.4/indium-1.0.18+mc1.19.4.jar",
       "https://cdn.modrinth.com/data/1IjD5062/versions/4h5IIa7B/continuity-3.0.0-beta.2+1.19.3.jar",
-      "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.19.4-0.4.11/sodium-fabric-mc1.19.4-0.4.11+build.26.jar"
+      "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.19.4-0.4.11/sodium-fabric-mc1.19.4-0.4.11+build.26.jar",
+      "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.19.4-1.5.0/reeses_sodium_options-1.5.0+mc1.19.4-build.72.jar",
+      "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.19.3-0.4.19/sodium-extra-0.4.19+mc1.19.3-build.101.jar"
     ]
   },
   {
@@ -34,7 +36,9 @@
       "https://cdn.modrinth.com/data/NRjRiSSD/versions/kLyFtyv2/memoryleakfix-fabric-1.17+-1.1.1.jar",
       "https://github.com/comp500/Indium/releases/download/1.0.18+mc1.20/indium-1.0.18+mc1.20.jar",
       "https://cdn.modrinth.com/data/1IjD5062/versions/ImUFj5Gl/continuity-3.0.0-beta.2+1.20.jar",
-      "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.20-0.4.10/sodium-fabric-mc1.20-0.4.10+build.27.jar"
+      "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.20-0.4.10/sodium-fabric-mc1.20-0.4.10+build.27.jar",
+      "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.20-1.5.1/reeses_sodium_options-1.5.1+mc1.20-build.74.jar",
+      "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.20-0.4.20/sodium-extra-0.4.20+mc1.20-build.103.jar"
     ]
   },
   {
@@ -53,7 +57,9 @@
       "https://cdn.modrinth.com/data/NRjRiSSD/versions/kLyFtyv2/memoryleakfix-fabric-1.17+-1.1.1.jar",
       "https://github.com/comp500/Indium/releases/download/1.0.18+mc1.20/indium-1.0.18+mc1.20.jar",
       "https://cdn.modrinth.com/data/1IjD5062/versions/ImUFj5Gl/continuity-3.0.0-beta.2+1.20.jar",
-      "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.20-0.4.10/sodium-fabric-mc1.20-0.4.10+build.27.jar"
+      "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.20-0.4.10/sodium-fabric-mc1.20-0.4.10+build.27.jar",
+      "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.20-1.5.1/reeses_sodium_options-1.5.1+mc1.20-build.74.jar",
+      "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.20-0.4.20/sodium-extra-0.4.20+mc1.20-build.103.jar"
     ]
   }
 ]
