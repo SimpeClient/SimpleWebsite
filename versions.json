@@ -1,5 +1,20 @@
 [
   {
+    "id": "1.8.9-0.2.7",
+    "name": "SimpleClient 1.8.9",
+    "minecraft_version": "1.19.4",
+    "fabric_version": "0.14.21",
+    "simpleclient_version"; "0.2.6",
+    "mods": [
+    ],
+    "overrides": {
+      "fabric_installer_url": "https://meta.legacyfabric.net/v2/versions/installer",
+      "meta": {
+        "javaVersion": {"component": "java-runtime-gamma", "majorVersion": 17}
+      }
+    }
+  }
+  {
     "id": "1.19.4-0.2.6",
     "name": "SimpleClient 1.19.4",
     "minecraft_version": "1.19.4",
