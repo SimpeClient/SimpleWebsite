@@ -2,7 +2,7 @@
   {
     "id": "1.8.9-0.3.0",
     "name": "SimpleClient 1.8.9",
-    "minecraft_version": "1.19.4",
+    "minecraft_version": "1.8.9",
     "fabric_version": "0.14.21",
     "simpleclient_version": "0.3.0",
     "mods": [
