@@ -14,7 +14,7 @@
         "javaVersion": {"component": "java-runtime-gamma", "majorVersion": 17}
       }
     }
-  }
+  },
   {
     "id": "1.19.4-0.3.0",
     "name": "SimpleClient 1.19.4",
