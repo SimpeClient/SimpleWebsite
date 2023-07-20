@@ -9,7 +9,7 @@
       "https://github.com/SimpleClientDevelopment/SimpleClient/releases/download/0.3.1/simpleclient-1.8.9-0.3.1.jar",
       "https://github.com/Legacy-Fabric/fabric/releases/download/1.9.1/legacy-fabric-api-1.9.1.jar",
       "https://github.com/RedLime/OptiFabric-Pre1.14/releases/download/1.0.5/optifabric-1.0.5+1.8.9.jar",
-      "https://optifine.net/downloadx?f=OptiFine_1.8.9_HD_U_M5.jar&x=027f54b2541f0bc1a45f51434c1a529d"
+      {"url": "https://optifine.net/downloadx?f=OptiFine_1.8.9_HD_U_M5.jar&x=027f54b2541f0bc1a45f51434c1a529d", "filename": "OptiFine_1.8.9_HD_U_M5.jar"}
     ],
     "overrides": {
       "fabric_installer_url": "https://meta.legacyfabric.net/v2/versions/installer",
